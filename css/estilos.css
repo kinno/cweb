@@ -17,16 +17,16 @@
     /*background-color: #cccccc;*/
     margin-top: 10px;
     margin-left: 25px;;
-    width:1000px;
+    width:900px;
     height: 450px;
 }
 #reproductor{
     float:left;
-    background-color: #cccccc;
+    /*background-color: #cccccc;*/
     margin-top: 10px;
     margin-left: 25px;
     margin-right: 25px;
-    width:250px;
+    width:370px;
     height: 450px;
 }
 #footer{

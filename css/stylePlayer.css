@@ -3,7 +3,9 @@
 .ttw-music-player {
     width: 370px;
     margin: 60px auto;
+    margin-top: 0px;
     font-family: 'Lato', arial, sans-serif;
+    
 }
 
 .ttw-music-player .player {
@@ -70,7 +72,7 @@
 }
 
 .ttw-music-player .player .title {
-    color: #efefef;
+    color: #FAAC58; /*#efefef;*/
     text-shadow: 0 1px 1px rgba(0, 0, 0, .8);
     font-family: 'Lato Bold', arial, sans-serif;
     font-weight: bold;
@@ -235,7 +237,7 @@
 }
 
 .ttw-music-player .tracklist li:hover {
-    color: #eee;
+    color: #FAAC58;
 }
 
 .ttw-music-player li:last-child{

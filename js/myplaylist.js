@@ -12,10 +12,47 @@ var myPlaylist = [
         mp3:'media/songs/nunca_en_tu_lugar.mp3',
         title:'Nunca en tu lugar',
         artist:'Carbonno',
-        rating:4,
-        buy:'#',
-        price:'0.99',
-        duration:'3:00',
+        duration:'3:25',
         cover:'media/images/covers/divergente.jpg'
-    }
+        
+    },
+    {
+        wma:'media/songs/nunca_en_tu_lugar.mp3',
+        title:'Nunca en tu lugar',
+        artist:'Carbonno',
+        duration:'3:25',
+        cover:'media/images/covers/divergente.jpg'
+    },
+    {
+        wma:'media/songs/nunca_en_tu_lugar.mp3',
+        title:'Nunca en tu lugar',
+        artist:'Carbonno',
+        duration:'3:25',
+        cover:'media/images/covers/divergente.jpg'
+    },
+    {
+        wma:'media/songs/nunca_en_tu_lugar.mp3',
+        title:'Nunca en tu lugar',
+        artist:'Carbonno',
+        duration:'3:25',
+        cover:'media/images/covers/divergente.jpg'
+    },
+    {
+        wma:'media/songs/nunca_en_tu_lugar.mp3',
+        title:'Nunca en tu lugar',
+        artist:'Carbonno',
+        duration:'3:25',
+        cover:'media/images/covers/divergente.jpg'
+    },
+    {
+        wma:'media/songs/nunca_en_tu_lugar.mp3',
+        title:'Nunca en tu lugar',
+        artist:'Carbonno',
+        duration:'3:25',
+        cover:'media/images/covers/divergente.jpg'
+    },
+    
+  
+       
+    
 ];

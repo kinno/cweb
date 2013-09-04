@@ -43,7 +43,8 @@
 
             $('#reproductor').ttwMusicPlayer(myPlaylist, {
                 autoPlay:false, 
-                description:description,
+                //description:description,
+                buyNotActive:true,
                 jPlayer:{
                     swfPath:'../plugin/jquery-jplayer' //You need to override the default swf path any time the directory structure changes
                 }
