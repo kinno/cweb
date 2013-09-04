@@ -7,9 +7,13 @@
         <script type="text/javascript" src="js/textualizer.js"></script>
         <script type="text/javascript" src="js/funciones.js"></script>
         <script type="text/javascript" src="js/social.js"></script>
+        <script type="text/javascript" src="js/jquery.jplayer.js"></script>
+        <script type="text/javascript" src="js/ttw-music-player.js"></script>
+        <script type="text/javascript" src="js/myplaylist.js"></script>
         <link rel="stylesheet" type="text/css" href="css/estilos.css">
         <link rel="stylesheet" type="text/css" href="css/styleSocial.css">
         <link rel="stylesheet" type="text/css" href="css/sunny/jquery-ui-1.10.3.custom.css">
+        <link rel="stylesheet" type="text/css" href="css/stylePlayer.css">
         <title>Carbonno - Divergente</title>
     </head>
     <body>
@@ -33,7 +37,19 @@
                       fjs.parentNode.insertBefore(js, fjs);
                     }(document, 'script', 'facebook-jssdk'));
                 </script>
-                
+         <script type="text/javascript">
+        $(document).ready(function(){
+            var description = 'Texto de ejemplo y prueba';
+
+            $('#reproductor').ttwMusicPlayer(myPlaylist, {
+                autoPlay:false, 
+                description:description,
+                jPlayer:{
+                    swfPath:'../plugin/jquery-jplayer' //You need to override the default swf path any time the directory structure changes
+                }
+            });
+        });
+    </script>       
     <div id="header">
             <div id="logo" align="center">
                 Carbonno
@@ -69,7 +85,7 @@
         <div id="banner">
             <img src="media/images/banner.jpg" width="100%">
         </div>
-        <!--<div id="reproductor"></div>-->
+        <div id="reproductor"></div>
         <div id="dialog">
             <div align="center">
                 <img src="media/images/bannerDescarga.jpg"/>
