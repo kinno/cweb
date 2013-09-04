@@ -1,6 +1,6 @@
  <html xmlns:fb="http://ogp.me/ns/fb#">
     <head>
-        <title></title>
+        <title>Carbonno - Divergente</title>
     </head>
     <body>
     <div id="fb-root"></div>
