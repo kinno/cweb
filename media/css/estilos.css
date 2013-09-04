@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "CarbonoFont";
+    src: url(../images/fuente/font.ttf) format("truetype");
+}
+
+#header{
+  /*margin:0 auto 0 auto;*/
+    /*background-color: black;*/
+    /*opacity: 0.4;*/
+    width: auto;
+    height: 100px;
+    color: #000000;
+    /*position: relative;*/
+}
+#banner{
+    float: left;
+    /*background-color: #cccccc;*/
+    margin-top: 10px;
+    margin-left: 25px;;
+    width:1000px;
+    height: 450px;
+}
+#reproductor{
+    float:left;
+    background-color: #cccccc;
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    width:250px;
+    height: 450px;
+}
+#footer{
+     margin: 500px 0 0 0; 
+     padding: 0 0 10px 0;
+    /*background-color: RED;
+    /*opacity: 0.4;*/
+    width: auto;
+    height: 75px;
+    
+}
+#logo{
+   
+    float: left;
+    margin-left: 75px;
+    font-family: "CarbonoFont";
+    font-size: 75px;
+}
+#txtlzr{
+    font-family: "Times New Roman";
+    font-size: 45px;
+    float:left;
+    margin-left:50px;
+    width: 400px;
+    height: 100px;
+    
+}
+#red{
+    float: left;
+    margin-right:10px;
+    
+}
