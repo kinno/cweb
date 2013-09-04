@@ -16,7 +16,7 @@
         <script type="text/javascript">
 
                     function labnol() {
-                      var url = "descargar.php";  
+                      var url = "controlador/descargar.php";  
                       $(location).attr('href',url);
                     }
 
@@ -80,6 +80,7 @@
                   <fb:like href="http://www.facebook.com/carbono.band" send="false" 
                       layout="standard" width="550" show_faces="true"></fb:like>
             </div>
+            <div align="right">Si ya sigues a CARBONNO, haz click <a href="controlador/descargar.php">aquí</a></div>
             </div>
         </div>
 <!--
