@@ -90,7 +90,9 @@
             <img src="media/images/banner.jpg" style="cursor: pointer;" width="100%">
         </div>
         <div id="reproductor"></div>
-        <div id="instagram"></div>
+        <div id="instagram">
+            <iframe src="http://widget.stagram.com/in/carbonorock/?s=100&w=6&h=1&b=1&p=5" allowtransparency="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden;width:690px; height: 115px" ></iframe> <!-- Webstagram - web.stagram.com -->
+        </div>
         <div id="dialog">
             <div align="center">
                 <img src="media/images/bannerDescarga.jpg"/>
