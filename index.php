@@ -75,13 +75,6 @@
 			<li class="youtube">
 				<a href="http://www.youtube.com/Carbonnorock" target="blank"><strong>Youtube</strong></a>
 			</li>
-			<!--<li class="reddit">
-				<a href="http://www.reddit.com/"><strong>Reddit</strong></a>
-			</li>
-			<li class="rss">
-				<a href="http://feeds2.feedburner.com/marcofolio"><strong>RSS</strong></a>
-			</li>*/-->
-			
 		</ul>
             </div>
             
