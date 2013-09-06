@@ -10,7 +10,6 @@
         <script type="text/javascript" src="js/jquery.jplayer.js"></script>
         <script type="text/javascript" src="js/ttw-music-player.js"></script>
         <script type="text/javascript" src="js/myplaylist.js"></script>
-        <script type="text/javascript" src="js/spectragram.min.js"></script>
         <link rel="stylesheet" type="text/css" href="css/estilos.css">
         <link rel="stylesheet" type="text/css" href="css/styleSocial.css">
         <link rel="stylesheet" type="text/css" href="css/sunny/jquery-ui-1.10.3.custom.css">
@@ -88,7 +87,7 @@
             
         </div>
         <div id="banner">
-            <img src="media/images/banner.jpg" width="100%">
+            <img src="media/images/banner.jpg" style="cursor: pointer;" width="100%">
         </div>
         <div id="reproductor"></div>
         <div id="instagram"></div>
